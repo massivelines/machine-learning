@@ -18,6 +18,6 @@
     "@tensorflow/tfjs": "^2.0.1",
     "@tensorflow/tfjs-node-gpu": "^2.0.1",
     "argparse": "^1.0.10",
-    "socket.io": "~2.2.0"
+    "socket.io": "~2.4.0"
   }
 }
